@@ -430,7 +430,7 @@
 				<database.jdbc.password>12345678</database.jdbc.password>
 			</properties>
 		</profile>
-	</profiles>ss
+	</profiles>
 	<build>
 		<finalName>prototype</finalName>
 		<resources>
