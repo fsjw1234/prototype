@@ -424,7 +424,7 @@
 				<app.log.dir>/home/fandi/taishan/project/logs</app.log.dir>
 				<app.ehcache.dir>/home/fandi/taishan/project/ehcache</app.ehcache.dir>
 				<database.jdbc.driver>com.mysql.jdbc.Driver</database.jdbc.driver>
-				<database.jdbc.url><![CDATA[jdbc:mysql://rm-uf653h6hcelwvkwq5o.mysql.rds.aliyuncs.com/fandis?useUnicode=true&amp;amp;characterEncoding=utf8]]></database.jdbc.url>
+				<database.jdbc.url><![CDATA[jdbc:mysql://rm-uf653h6hcelwvkwq5o.mysql.rds.aliyuncs.com/fandi?useUnicode=true&amp;amp;characterEncoding=utf8]]></database.jdbc.url>
 				<database.jdbc.name>fandi</database.jdbc.name>
 				<database.jdbc.password>12345678</database.jdbc.password>
 			</properties>
